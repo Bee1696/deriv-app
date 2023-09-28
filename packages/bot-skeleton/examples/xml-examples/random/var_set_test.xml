@@ -26,7 +26,7 @@
       </block>
     </statement>
   </block>
-  <block type="tick_analysis" id="@E~`Bf@n:wYeAS^w,t:z" x="0" y="301">
+  <block type="tick_analysis" id="@E~`Bf@n9*:wYeAS^w,t:z" x="0" y="301">
     <statement name="TICKANALYSIS_STACK">
       <block type="variables_set" id="-_pgYR`m.jk63JQmV`zV">
         <field name="VAR">var tick</field>
@@ -40,7 +40,7 @@
   </block>
   <block type="procedures_defnoreturn" id="Ds3m;ZF).MH}oBz,X-7W" x="0" y="393">
     <field name="NAME">do something</field>
-    <comment pinned="false" h="80" w="160">Describe this function...</comment>
+    <comment pinned="true" h="80" w="160">Describe this function...</comment>
     <statement name="STACK">
       <block type="variables_set" id="Hs[Tc_$`=P[ghFAyr*6e">
         <field name="VAR">var func</field>
